@@ -1,7 +1,7 @@
 # TASK_17---DS18B20__Temperature_Sensor_Buzzer
  TASK_17---DS18B20__Temperature_Sensor_Buzzer
 
-
+![Image Description](17.jpg)
 
 ## TASK_17---DS18B20 Temperature Sensor & Buzzer interfacing
 
