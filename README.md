@@ -5,7 +5,7 @@
 
 ## TASK_17---DS18B20 Temperature Sensor & Buzzer interfacing
 
-![result](Part_04/Result SS (Hercules).png)
+![result](Result_SS_(Hercules).png)
 
 1. **Study the datasheet of DS18B20:** [link to DS18B20 datasheet](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
 2. **Write a driver for the sensor:**
